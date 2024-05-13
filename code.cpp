@@ -18,9 +18,9 @@ using namespace std;
 // y' = z //f1
 // z' = 1 - y //f2
 
-float f1(float x, float y, float z)
+float f1(float x, float y, float z)//функция
 {
-  return(z);
+  return(z);// значение зет
 }
 float f2(float x, float y, float z)
 {
